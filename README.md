@@ -1,4 +1,4 @@
-![Banner Image](asset/banner.png)
+![Banner Image](banner.png)
 
 
 <h1>Hi there👋, I'm Arman, a freshly graduated Software Engineer</h1>
