@@ -1,4 +1,4 @@
-![Banner Image](banner.png)
+<img src="banner_alt.svg" style="width:100%;height:auto;">
 
 
 <h1>Hi there👋, I'm Arman, a freshly graduated Software Engineer</h1>
