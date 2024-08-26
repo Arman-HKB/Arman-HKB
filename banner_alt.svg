@@ -8,7 +8,7 @@
    y="0px"
    viewBox="0 0 800 200"
    xml:space="preserve"
-   sodipodi:docname="banner.svg"
+   sodipodi:docname="banner_alt.svg"
    inkscape:export-filename="banner_alt.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -29,9 +29,9 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#505050"
    showgrid="false"
-   inkscape:zoom="1.3777822"
-   inkscape:cx="133.18506"
-   inkscape:cy="47.177269"
+   inkscape:zoom="1.9484783"
+   inkscape:cx="147.55104"
+   inkscape:cy="70.8245"
    inkscape:window-width="2560"
    inkscape:window-height="1369"
    inkscape:window-x="1912"
@@ -40,11 +40,11 @@
    inkscape:current-layer="PRINT" />
 <g
    id="g46"
-   transform="translate(5.22272e5,5.0009999)">
+   transform="translate(5.0000005,5.0009999)">
 	<rect
-   x="-5.22272e5"
+   x="-5.0000005"
    y="-5.0009999"
-   style="fill:#22272e;stroke-width:1.9998"
+   style="fill:#22272e;stroke-width:1.9998;fill-opacity:1"
    width="800"
    height="200"
    id="rect2" />
