@@ -1,11 +1,11 @@
 <img src="banner_alt.svg" style="width:100%;height:auto;">
 
 
-<h1>Hi there👋, I'm Arman, a freshly graduated Software Engineer</h1>
+<h1>Hi there👋, I'm Arman, .NET Engineer and self-taught Game Dev</h1>
 <p style="text-align: justify;">
-👨‍💻 Hello, I'm Arman and welcome to my GitHub profile. Feel free to take a look around! I'm a .NET/Angular developer in the French banking sector. I used to work as a PHP developer for laboratories. From time to time, I develop video games, although very few make it here. I would be delighted to discuss technology, metal/punk music, video games or collaboration with you!
+👨‍💻 Hello, I'm Arman and welcome to my GitHub profile. Feel free to take a look around! I'm a .NET/Azure Engineer in the French banking sector. I used to work as a PHP developer for laboratories. From time to time, I develop video games, although very few make it here. I would be delighted to discuss technology, metal/punk music, video games or collaboration with you! Big fan of Trigun by the way.
 </p>
-🔭 When I have the time, i'm working on [OpenNotes] (https://github.com/Arman-HKB/OpenNotes)
+🔭 A lot of my personal projects are private (nearly 10 years of small hobby projects), kinda s*ck not to share them. So when I have the time, i'm working cleaning this old projects to publish them here on GitHub!
 
 <h3 align="left">Want to connect with me ?</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arman-hakobyan-2b3967234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
